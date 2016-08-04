@@ -1,0 +1,38 @@
+_repo: The-Old-Northwest--A-Chronicle-of-the-Ohio-Valley-and-Beyond_3014
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ogg, Frederic Austin
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '1088'
+    url: http://www.gutenberg.org/2009/agents/1088
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3014'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1919'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 19
+subjects:
+- !lcc 'F476'
+- !lcsh 'Northwest, Old -- History'
+- !lcsh 'Ohio River Valley -- History'
+- !lcc 'E151'
+- GITenberg
+title: 'The Old Northwest: A Chronicle of the Ohio Valley and Beyond'
+url: http://www.gutenberg.org/ebooks/3014
